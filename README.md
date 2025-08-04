@@ -15,3 +15,8 @@ Fiquei encarregado de idealizar a ideia inicial do jogo, fortemente inspirado no
 ## Rodrigo Fayer
 Ajudei a desenvolver o jogo como um todo junto ao grupo, e principalmente na ideia, história, jogabilidade do jogo e deu a sugestão do nome do jogo.
 Nesse documento, fui responsável pelas partes de História, Gameplay e personagens, como tivemos vários formulários fazer essa parte foi fazer uma sintese de tudo o que trablamos durante o trabalho.
+
+## Gabriel Monteiro
+Ajudei a desenvolver o jogo em geral. Ajudei principalmente a consolidar a ideia inicial da narrativa e a desenvolver os cenários pelo que o jogo se passa e as transições. Além disso, ajudei a elaborar a parte final do resultado do jogo e como o jogador recebe sua nota final.
+Nesse documento, fui responsável pelo cronograma, ajudei na conexão das fases, revisando parte da história de cada cenário.
+
