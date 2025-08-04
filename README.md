@@ -2,3 +2,6 @@
 # modelogdd
 
 document link https://docs.google.com/document/d/15-sXTGpmLJnpuLOpmUG3s52aFBLvxOtVqkFq2_U1uzQ/edit?usp=sharing
+
+## Lucas W S Crispim
+Ajudei a construir o documento como um todo, com destaque para Universo do Jogo e Interface. Descrevi os principais cenários (chat da família, quarto de investigação, computador e reunião final) e organizei como cada fase se conecta, do surgimento do boato até a apresentação das provas. Também desenhei um HUD simples e algumas das telas do jogo.
