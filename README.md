@@ -11,3 +11,7 @@ Ajudei a construir o documento como um todo, com destaque para Universo do Jogo 
 
 ## André Barbeto
 Fiquei encarregado de idealizar a ideia inicial do jogo, fortemente inspirado no Papers Please, o rascunho da dinâmica de gameplay, objetivos e mecânicas. Nesse documento, fui responsável pelas partes de Controles, Camera, Inimigos e Cutscene, além de pequenas edições, correções e discussões a respeito do design do jogo de forma geral.
+
+## Rodrigo Fayer
+Ajudei a desenvolver o jogo como um todo junto ao grupo, e principalmente na ideia, história, jogabilidade do jogo e deu a sugestão do nome do jogo.
+Nesse documento, fui responsável pelas partes de História, Gameplay e personagens, como tivemos vários formulários fazer essa parte foi fazer uma sintese de tudo o que trablamos durante o trabalho.
